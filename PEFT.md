@@ -6,3 +6,5 @@
 * one basic model + much peft model(s)
 * knowledge distillation
 ![knowledge distillation](./images/peft01.png)
+* RAG
+![RAG](./images/rag01.jpg)
