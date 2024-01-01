@@ -8,3 +8,5 @@
 ![knowledge distillation](./images/peft01.png)
 * RAG
 ![RAG](./images/rag01.jpg)
+* RLHF
+![RLHF](./images/rlhf01.jpg)
